@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Dema Therese"
+author: "Claire Conzelmann"
 format: 
   pdf:
     include-in-header: 
