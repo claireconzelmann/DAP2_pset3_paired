@@ -1,0 +1,14 @@
+Partner1: Alison Filbey, alisonfilbey
+Partner2: Claire Conzelmann, claireconzelmann
+02e1c42 - claireconzelmann, 87 seconds ago : resolving merge conflict
+4d72733 - Alison Filbey, 8 minutes ago : Merge pull request #3 from claireconzelmann/describe
+4283304 - alisonfilbey, 13 minutes ago : Histogram
+8784a11 - claireconzelmann, 27 minutes ago : updated preview_data function
+9b8fa01 - Alison Filbey, 36 minutes ago : Merge pull request #2 from claireconzelmann/merge_conflict_name_2
+524a0f3 - Alison Filbey, 38 minutes ago : Merge branch 'main' into merge_conflict_name_2
+59fb4aa - Claire Conzelmann, 41 minutes ago : Merge pull request #1 from claireconzelmann/merge_conflict_name_1
+ab6f087 - claireconzelmann, 44 minutes ago : changing name
+0ab8783 - alisonfilbey, 48 minutes ago : Changing name
+c23a53a - claireconzelmann, 67 minutes ago : removing ps4 template, adding ps3 template
+130b5b0 - claireconzelmann, 68 minutes ago : adding template
+1db1d10 - Claire Conzelmann, 70 minutes ago : Initial commit
