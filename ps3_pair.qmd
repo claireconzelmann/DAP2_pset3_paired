@@ -28,7 +28,9 @@ np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
 def preview_data(df):
-    print(df.head())
+    result = [df.head(),
+    df.describe()]
+    return result
 
 preview_data(data)
 ```
