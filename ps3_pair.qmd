@@ -1,6 +1,8 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Alison Filbey"
+
+author: "Claire Conzelmann and Alison Filbey"
+
 format: 
   pdf:
     include-in-header: 
@@ -28,11 +30,11 @@ data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
 def preview_data(df, x):
     results= [df.head(),
+    df.describe(),
     alt.Chart(df).mark_bar().encode(
       alt.X(x),
       alt.Y("count()"))]
     return results
-
 
 preview_data(data, 'Random Numbers')
 ```
